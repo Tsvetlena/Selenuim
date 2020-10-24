@@ -10,7 +10,7 @@ public class Test {
 	
 	WebDriver driver = null;
 	
-	@BeforeTest
+	
 
 	 {
 		
